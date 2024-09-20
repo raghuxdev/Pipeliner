@@ -1,0 +1,33 @@
+{
+  "brandText": "Pipeliner",
+  "form.login.headerText": "Log in to Pipeliner",
+  "form.signup.headerText": "Sign up into Pipeliner",
+  "form.admin.console.text": "Welcome to Pipeliner's Admin console",
+  "form.signup.helperText": "Register with valid email ID",
+  "loginHelperText": "Enter your email below to login to your account.",
+  "loginForm.description": "Login with your registered email",
+  "form.emailFieldLabel": "Email",
+  "form.emailFieldName": "email",
+  "form.passwordFieldName": "password",
+  "form.passwordFieldLabel": "Password",
+  "form.organizationFieldLabel": "Organization",
+  "form.organizationFieldName": "organization",
+
+  "form.reenterPasswordFieldName": "repassword",
+  "form.reenterPasswordFieldLabel": "Password Again",
+  "form.otpFieldName": "otp",
+  "form.otpFieldLabelName": "One Time Password",
+  "form.firstNameFieldLabel": "First name",
+  "form.lastNameFieldLabel": "Last name",
+  "form.emailFieldPlaceholder": "flows@furin.com",
+  "signupForm.headerText": "Furin Handles The Rest",
+  "form.signinNuttonName": "Sign in",
+  "form.signinWithGoogleButtonName": "Login with Google",
+  "form.button.className": "w-full",
+  "form.card.padding": "p-0",
+
+  "heroSection.title": "Automate as fast as you can type",
+  "heroSection.desc": "Gives you automation superpowers, and Flowpium puts them to work.Pairing AI and Flowpium helps you turn ideas into workflows and bots that work for you.",
+  "heroSection.getStartedLabel": "Get Started",
+  "heroSection.stepsDesc": "Three Little Steps Away From Your Desire"
+}
